@@ -206,7 +206,7 @@ export default function Hero() {
 
           {/* Title */}
           <h1 className="h1 hero__title" data-aos="fade-up" data-aos-duration="800" data-aos-delay="80">
-            MF&nbsp;<span className="accent">Ardon</span>
+            Zynx<span className="accent">Ora</span>
           </h1>
 
           {/* Sub */}

@@ -88,7 +88,7 @@ export default function Technology() {
               <tr>
                 <th>Метрика</th>
                 <th>До (1С / ERP)</th>
-                <th>После MF Ardon</th>
+                <th>После ZynxOra</th>
                 <th>Дельта</th>
               </tr>
             </thead>

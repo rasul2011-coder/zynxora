@@ -38,7 +38,7 @@ export default function Footer() {
         {/* Right */}
         <div className="footer__right">
           <span className="footer__sandbox mono">sandbox: 162.35.31.11:8000</span>
-          <span className="footer__year">© 2024 MF Ardon · ZYNXORA Research</span>
+          <span className="footer__year">© 2024 ZynxOra Research</span>
         </div>
       </div>
     </footer>

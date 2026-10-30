@@ -58,7 +58,7 @@ export default function BusinessModel() {
           </div>
           <div className="bm__block bm__block--accent">
             <span className="bm__pct">15%</span>
-            <span className="bm__block-title">MF Ardon</span>
+            <span className="bm__block-title">ZynxOra</span>
             <span className="bm__block-sub">Серверный инференс</span>
             <span className="bm__block-note">Вычислительное ядро под капотом</span>
           </div>
